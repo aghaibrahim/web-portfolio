@@ -28,3 +28,15 @@ I designed and developed the complete website through TrendGot Viral, handling t
 ## Portfolio Note
 
 This folder documents my work on the project. The live website may change as the business updates its products and content.
+
+
+## Website Screenshots
+
+### Homepage
+![Abdulrahman Farms homepage](screenshots/homepage.png)
+
+### Products
+![Abdulrahman Farms products](screenshots/products.png)
+
+### Mobile view
+![Abdulrahman Farms mobile homepage](screenshots/mobile-view.png)
