@@ -4,8 +4,8 @@ A complete website design and development project for Abdulrahman Farms, an agri
 
 **Live website:** https://abdulrahmanfarms.com  
 **Platform:** WordPress  
-**My role:** Complete Website Design & Development  
-**Delivered through:** TrendGot Viral — my company
+**My role:** Complete Website Design & Development, including banners and visual assets  
+**Delivered through:** Trend Got Viral — my company
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ The website brings the farm’s products, business information, and services tog
 
 ## My Contribution
 
-I designed and developed the complete website through TrendGot Viral, handling the website layout, page setup, content presentation, and overall implementation.
+I designed and developed the complete website through Trend Got Viral, handling the website layout, page setup, content presentation, and overall implementation. I also designed the website banners and supporting graphics.
 
 ## Website Highlights
 
@@ -35,8 +35,8 @@ This folder documents my work on the project. The live website may change as the
 ### Homepage
 ![Abdulrahman Farms homepage](screenshots/homepage.png)
 
-### Products
-![Abdulrahman Farms products](screenshots/products.png)
+### Shop
+![Abdulrahman Farms shop](screenshots/shop.png)
 
 ### Mobile view
-![Abdulrahman Farms mobile homepage](screenshots/mobile-view.png)
+![Abdulrahman Farms mobile homepage](screenshots/mobile-updated.png)
